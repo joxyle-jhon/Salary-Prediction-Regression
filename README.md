@@ -27,4 +27,4 @@ The regression results are visualized as follows:
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Salary-Prediction-Regression.git
+   git clone https://github.com/joxyle-jhon/Salary-Prediction-Regression.git
